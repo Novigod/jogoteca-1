@@ -1,2 +1,2 @@
-# jogoteca-1
-# Meu primeiro projeto Jogoteca no GitHub em WEBII
+# Jogoteca-1
+<h1 align="center"> Jogoteca fala dele </h1>
