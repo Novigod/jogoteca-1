@@ -5,14 +5,10 @@
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
+
 ![maxresdefault](https://user-images.githubusercontent.com/108816292/182629468-18e46670-641e-47bc-b50f-6b5e4eb72541.jpg)
+<p align="left"> O projeto consiste em uma tabela que mostra os jogos da lista e que possibilita a adição de novos jogos de sua vontade á lista </p>
 
-
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 
 - `Funcionalidade 1`: Adicionar novos jogos a lista de jogos
