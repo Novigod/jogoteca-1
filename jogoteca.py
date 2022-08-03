@@ -7,7 +7,7 @@ class Jogo:
         self.console = console
 
 jogo1 = Jogo('God of War', 'Ação', 'Playstation')
-jogo2 = Jogo('CS:GO', 'Muito foda', 'Computador')
+jogo2 = Jogo('CS:GO', 'FPS', 'Computador')
 jogo3 = Jogo('Bloons TD 6', 'Tower Defense', 'Computador')
 
 lista = [jogo1, jogo2, jogo3]
